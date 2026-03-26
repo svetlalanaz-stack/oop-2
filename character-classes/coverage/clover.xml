@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774534240351" clover="3.2.0">
+  <project timestamp="1774534240352" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="11" coveredconditionals="11" methods="9" coveredmethods="9" elements="59" coveredelements="59" complexity="0" loc="39" ncloc="39" packages="1" files="7" classes="7"/>
+    <file name="Bowerman.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Bowerman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="11" type="stmt"/>
+      <line num="6" count="11" type="stmt"/>
+      <line num="7" count="11" type="stmt"/>
+    </file>
+    <file name="Character.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Character.js">
+      <metrics statements="21" coveredstatements="21" conditionals="11" coveredconditionals="11" methods="3" coveredmethods="3"/>
+      <line num="4" count="21" type="cond" truecount="5" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="8" count="18" type="stmt"/>
+      <line num="9" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="17" type="stmt"/>
+      <line num="14" count="17" type="stmt"/>
+      <line num="15" count="17" type="stmt"/>
+      <line num="16" count="17" type="stmt"/>
+      <line num="17" count="17" type="stmt"/>
+      <line num="18" count="17" type="stmt"/>
+      <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="33" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+      <line num="38" count="5" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Daemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="Magician.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Magician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="Swordsman.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Swordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="Undead.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Undead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="Zombie.js" path="C:\Users\пк\Desktop\oop-2\character-classes\src\js\Zombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
