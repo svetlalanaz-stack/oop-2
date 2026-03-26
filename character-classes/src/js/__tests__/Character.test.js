@@ -14,6 +14,8 @@ describe('Класс Character', () => {
       expect(character.type).toBe('Bowman');
       expect(character.health).toBe(100);
       expect(character.level).toBe(1);
+      expect(character.attack).toBeUndefined();
+      expect(character.defence).toBeUndefined();
     });
 
     test('должен выбрасывать ошибку при коротком имени', () => {
